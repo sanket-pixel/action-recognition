@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+# To avoid uploading the data
+data/
+
+=======
+>>>>>>> parent of c5f288f... Upload TSN and 3D Resnet models
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -127,3 +133,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+/3DResNet/trained_models/
+/TSN/trained_models/
